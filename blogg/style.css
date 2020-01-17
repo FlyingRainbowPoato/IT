@@ -1,0 +1,24 @@
+nav li{
+  display: inline;
+  background-color: #827143;
+  padding:10px;
+  border-radius:5px;
+  margin:5px;
+}
+
+nav{
+  background-color:#4a412a;
+  padding: 20px;
+  border-radius: 20px;
+}
+
+nav a {
+  text-decoration: none;
+  font-family: Arial, sans-serif;
+  color: black;
+}
+
+img{
+  width:100%;
+  max-width:600px;
+}
