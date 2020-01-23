@@ -1,13 +1,17 @@
 nav li{
-  display: inline;
-  background-color: #827143;
+  display: inline-flex;
+}
+nav li a{
   padding:10px;
   border-radius:5px;
   margin:5px;
 }
+nav li a:hover{
+  background-color: #0095af;
+}
 
 nav{
-  background-color:#4a412a;
+  background-color:#008299;
   padding: 20px;
   border-radius: 20px;
 }
@@ -21,4 +25,8 @@ nav a {
 img{
   width:100%;
   max-width:600px;
+}
+
+body{
+  font-family: Arial, Helvetica, sans-serif;
 }
